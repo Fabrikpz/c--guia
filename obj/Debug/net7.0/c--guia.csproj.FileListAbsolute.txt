@@ -1,0 +1,15 @@
+C:\Users\Usuario\c--guia\bin\Debug\net7.0\c--guia.exe
+C:\Users\Usuario\c--guia\bin\Debug\net7.0\c--guia.deps.json
+C:\Users\Usuario\c--guia\bin\Debug\net7.0\c--guia.runtimeconfig.json
+C:\Users\Usuario\c--guia\bin\Debug\net7.0\c--guia.dll
+C:\Users\Usuario\c--guia\bin\Debug\net7.0\c--guia.pdb
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.csproj.AssemblyReference.cache
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.AssemblyInfoInputs.cache
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.AssemblyInfo.cs
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.dll
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\refint\c--guia.dll
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.pdb
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\c--guia.genruntimeconfig.cache
+C:\Users\Usuario\c--guia\obj\Debug\net7.0\ref\c--guia.dll
